@@ -1,5 +1,8 @@
 <style>
-div#container {
-    width: 1000px;
+#container {
+    width: 1000px !important;
+}
+#public{
+    background: #FFF;
 }
 </style>
